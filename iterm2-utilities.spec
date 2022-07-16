@@ -6,7 +6,7 @@
 
 Name:           iterm2-utilities
 Version:        0
-Release:        0.1.20220717git%{shortcommit}%{?dist}
+Release:        0.2.20220717git%{shortcommit}%{?dist}
 Summary:        iTerm2 Shell Utilities
 License:        GPLv2
 URL:            https://iterm2.com/documentation-utilities.html
