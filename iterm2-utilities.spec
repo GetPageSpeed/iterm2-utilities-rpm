@@ -1,4 +1,4 @@
-%global commit 3ecd4d37e299289f81daebdacbc94f731935f5f8
+%global commit 67e9313f992f824f5102491fcb587611ba948035
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
 %global upstream_github gnachman
@@ -6,7 +6,7 @@
 
 Name:           iterm2-utilities
 Version:        0
-Release:        0.1.20210722git%{shortcommit}%{?dist}
+Release:        0.1.20220717git%{shortcommit}%{?dist}
 Summary:        iTerm2 Shell Utilities
 License:        GPLv2
 URL:            https://iterm2.com/documentation-utilities.html
